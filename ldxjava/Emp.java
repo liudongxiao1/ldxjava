@@ -4,6 +4,7 @@ public  class Emp
 	public  static  void  main(String[] args)
 	{
 
-        system.out.println("java是个跨平台，编译型，纯面向对象的编程语言");
+        system.out.println("java鏄釜璺ㄥ钩鍙帮紝缂栬瘧鍨嬶紝绾潰鍚戝璞＄殑缂栫▼璇█");
+		
 	}
 }
